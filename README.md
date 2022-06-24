@@ -18,4 +18,7 @@
 - 写真撮影と画像アップロードの両方に対応した
 - 一覧の画像クリックでLightbox表示するようにした。参考：https://toretama.jp/click-big-image-floaty.html
 - 削除にconfirmを入れた。参考：https://www.sejuku.net/blog/81083
+- さくらサーバにデプロイした　https://vicke.jp
+  - 今のところ、じゃんけんとかざい博物館の2つですが、増やしていければと思っています
 
+![qrcode_202206241028](https://user-images.githubusercontent.com/32793942/175441678-0eebd5cf-8c4b-4a71-aa7a-6a2fe5197a58.png)
